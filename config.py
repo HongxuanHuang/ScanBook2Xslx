@@ -1,0 +1,9 @@
+# 配置文件
+
+APIKEY = "12196.0f2cb33759a4910ca8d67c7a6fec90ad.79ac77374298b912255461dc47446ae5"
+DEBUG = True
+HOST = "localhost"
+PORT = 8080
+CDN = False
+AUTO_OPEN_BROWSER = True
+REMOTE_ACCESS = False

@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pywebio = "==1.5.2"
+requests = "==2.27.1"
+pyinstaller = "==4.10"
+openpyxl = "==3.0.9"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
